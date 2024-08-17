@@ -1,7 +1,7 @@
 # E-Diary_Management_System
 E-Diary_Management_System is a repository that contains the source code for an electronic diary management system with login authentication system and database connectivity. The system allows users to create and manage notes, organize them by category, and track the time spent on each note.
 
-#E-Diary Management System E-Diary Management System is an electronic diary management system that allows users to create and manage notes, organize them by category, and track the time spent on each note. The system also has login authentication and database connectivity features.
+#E-Diary Management System is an electronic diary management system that allows users to create and manage notes, organize them by category, and track the time spent on each note. The system also has login authentication and database connectivity features. It also has a to-do list functionality that enables a user to note down a list of tasks he wishes to complete and a means to checkmark a task once completed.
 
 #Installation and Setup
 
